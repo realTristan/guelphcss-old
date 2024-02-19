@@ -11,7 +11,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Guelph CSS | Learn More",
   description:
-    "The University of Guelph Artificial Intelligence Club is a student-run organization at the University of Guelph. We aim to provide students with the opportunity to learn and apply artificial intelligence in a collaborative and supportive environment.",
+    "The University of Guelph Cyber Security Society is a student-run organization that aims to provide students with the resources and knowledge to pursue a career in cyber security.",
 };
 
 export default function RootLayout({
